@@ -1,0 +1,95 @@
+.contenedor{
+    border: solid gold;
+    border-radius: 0.4em;
+    background: black;
+    color: white;
+  }
+  
+  @media (min-width: 575px){
+      #logoAP{
+          width: 10em;
+          float: left;
+          position: relative;
+          top:-4%;
+      }
+      }
+      @media (min-width: 575px){
+      #social{
+          width: 2.5em;
+          margin: 0.2em;
+          float:right;
+          position: relative;
+          top:25%;
+  
+          }
+      }
+      @media (min-width: 575px){
+          button{
+              float:right;
+              margin: 0.3em;
+              border-radius: 0.4em;
+  
+              position: relative;
+              top:25%;
+  
+              }
+      }
+  
+      @media (max-width: 574.9px){
+          #logoAP{
+              width: 7em;
+              float: left;
+              position: relative;
+              top:15%;
+          }
+          }
+          @media (max-width: 574.9px){
+          #social{
+              width: 2.2em;
+              margin: 0.2em;
+              float:right;
+              position: relative;
+              top: -80%;
+              }
+          }
+  
+          @media (max-width: 574.9px){
+              button{
+                  float:right;
+                  margin: 0.3em;
+                  border-radius: 0.4em;
+  
+                  position: relative;
+                  top:-90%;
+                  }
+              }
+  
+              @media (max-width: 321px){
+                  #logoAP{
+                      width: 6em;
+                      float: left;
+                      position: relative;
+  
+                  }
+                  }
+                  @media (max-width: 321px){
+                  #social{
+                      width: 1.8em;
+                      margin: 0.2em;
+                      float:right;
+                      position: relative;
+                      top:-76%;
+  
+                      }
+                  }
+                  @media (max-width: 321px){
+                      button{
+  
+                          float:right;
+                          margin: 0.3em;
+                          border-radius: 0.4em;
+  
+                          position: relative;
+                          top:-90%;
+                          }
+                  }
